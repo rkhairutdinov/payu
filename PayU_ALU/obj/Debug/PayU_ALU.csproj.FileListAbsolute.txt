@@ -1,0 +1,9 @@
+D:\projects\PayU_IGS\PayU_ALU\obj\Debug\PayU_ALU.csprojResolveAssemblyReference.cache
+D:\projects\PayU_IGS\PayU_ALU\bin\Debug\PayU_ALU.dll
+D:\projects\PayU_IGS\PayU_ALU\bin\Debug\PayU_ALU.pdb
+D:\projects\PayU_IGS\PayU_ALU\bin\Debug\PayU_Core.dll
+D:\projects\PayU_IGS\PayU_ALU\bin\Debug\Newtonsoft.Json.dll
+D:\projects\PayU_IGS\PayU_ALU\bin\Debug\PayU_Core.pdb
+D:\projects\PayU_IGS\PayU_ALU\bin\Debug\Newtonsoft.Json.xml
+D:\projects\PayU_IGS\PayU_ALU\obj\Debug\PayU_ALU.dll
+D:\projects\PayU_IGS\PayU_ALU\obj\Debug\PayU_ALU.pdb

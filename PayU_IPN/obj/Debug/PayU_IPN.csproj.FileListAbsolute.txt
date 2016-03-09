@@ -1,0 +1,9 @@
+D:\projects\PayU_IGS\PayU_IPN\bin\Debug\PayU_IPN.dll
+D:\projects\PayU_IGS\PayU_IPN\bin\Debug\PayU_IPN.pdb
+D:\projects\PayU_IGS\PayU_IPN\obj\Debug\PayU_IPN.csprojResolveAssemblyReference.cache
+D:\projects\PayU_IGS\PayU_IPN\obj\Debug\PayU_IPN.dll
+D:\projects\PayU_IGS\PayU_IPN\obj\Debug\PayU_IPN.pdb
+D:\projects\PayU_IGS\PayU_IPN\bin\Debug\PayU_Core.dll
+D:\projects\PayU_IGS\PayU_IPN\bin\Debug\Newtonsoft.Json.dll
+D:\projects\PayU_IGS\PayU_IPN\bin\Debug\PayU_Core.pdb
+D:\projects\PayU_IGS\PayU_IPN\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,7 @@
+D:\projects\PayU_IGS\PayU_Core\bin\Debug\PayU_Core.dll
+D:\projects\PayU_IGS\PayU_Core\bin\Debug\PayU_Core.pdb
+D:\projects\PayU_IGS\PayU_Core\obj\Debug\PayU_Core.dll
+D:\projects\PayU_IGS\PayU_Core\obj\Debug\PayU_Core.pdb
+D:\projects\PayU_IGS\PayU_Core\bin\Debug\Newtonsoft.Json.dll
+D:\projects\PayU_IGS\PayU_Core\bin\Debug\Newtonsoft.Json.xml
+D:\projects\PayU_IGS\PayU_Core\obj\Debug\PayU_Core.csprojResolveAssemblyReference.cache
